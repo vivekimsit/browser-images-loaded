@@ -1,0 +1,36 @@
+{
+  "name": "browser-images-loaded",
+  "homepage": "https://github.com/vivekimsit/browser-images-loaded#readme",
+  "version": "1.0.0",
+  "description": "Check if all images in the parent element are loaded.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekimsit/browser-images-loaded.git"
+  },
+  "author": {
+    "name": "Vivek Poddar",
+    "email": "vivekimsit@gmail.com",
+    "url": "github.com/vivekimsit"
+  },
+  "keywords": [
+    "browse",
+    "image",
+    "utility"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivekimsit/browser-images-loaded/issues"
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true,
+    "space": 2
+  }
+}
